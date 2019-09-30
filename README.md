@@ -2,11 +2,11 @@
 ## Write different css rules for changing the color of the text. 
 
 * Given the html page, create three sets of rules for changing the color of the text. Each set should make the text look like the following images:
-* Set 1
+* Set 1<br>
 ![alt text](./images/set1.png "Set 1") 
-* Set 2
+* Set 2<br>
 ![alt text](./images/set2.png "Set 2") 
-* Set 3
+* Set 3<br>
 ![alt text](./images/set3.png "Set 3") 
 
 For using each set, comment the others with "/* */". These are the colors used in the sets, you can check which color is by going to : http://hslpicker.com/  and enter the values.
