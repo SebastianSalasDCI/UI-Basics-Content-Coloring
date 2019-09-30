@@ -1,10 +1,22 @@
-# New HTML page
-## Write a new HTML page using the tags &lt;p&gt; and &lt;h1&gt; to &lt;h6&gt;. 
+# Font color in your HTML page
+## Write different css rules for changing the color of the text. 
 
-* The page should look like the one on the following image:
-![alt text](./images/text.png "Text HTML") 
-* The text to write is : <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br>
-and the reference: https://www.lipsum.com/ 
+* Given the html page, create three sets of rules for changing the color of the text. Each set should make the text look like the following images:
+* Set 1
+![alt text](./images/set1.png "Set 1") 
+* Set 2
+![alt text](./images/set2.png "Set 2") 
+* Set 3
+![alt text](./images/set3.png "Set 3") 
 
-**See the image for reference**
+For using each set, comment the others with "/* */". These are the colors used in the sets, you can check which color is by going to : http://hslpicker.com/  and enter the values.
+* rgb(0, 0, 255)
+* rgba(255,10,10,1)
+* rgb(255, 10, 10,0.3)
+* hsl(0, 0%, 0%)
+* hsl(144, 100%, 50%)
+* hsl(251, 100%, 50%)
+* hsl(10, 0%, 35%, 0.5)
+
+
+**See the images for reference**
